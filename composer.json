@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "roave/backward-compatibility-check": "^8",
+        "marcocesarato/php-conventional-changelog": "^1"
+    }
+}
